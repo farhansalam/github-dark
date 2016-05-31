@@ -167,7 +167,7 @@ p {
 }
 
 .org-header {
-    background-color: #8C8B8B;
+    background-color: #333;
 }
 /* Octofication */
 
@@ -441,7 +441,7 @@ table.files tr.navigation-focus td {
 }
 
 .simple-box {
-    background-color: #8C8B8B;
+    background-color: #333;
 }
 /* Add Files Branch Name */
 
